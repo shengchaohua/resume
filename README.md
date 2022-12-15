@@ -1,5 +1,5 @@
 # 绳超华
-> **求职意向：Golang后端开发工程师**
+> 求职意向：Golang后端开发工程师
 ## 个人信息
 - 手机号码：18340806468
 - 邮箱地址：clarksheng@foxmail.com
@@ -14,7 +14,7 @@
 - 掌握常用的数据结构及算法（Leetcode 400+），掌握操作系统、计算机网络等基础知识
 
 ## 工作经历
-**2021.7 - 至今， Shopee ShopeePay Promotion** - 后端开发工程师
+2021.7 - 至今， Shopee ShopeePay Promotion - 后端开发工程师
 - 参与并负责用户奖励的funding项目，包括维护budget、计算funding信息、
 - 参与campaign创建、
 
