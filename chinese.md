@@ -1,12 +1,12 @@
 # 绳超华
-> 求职意向：Golang后端开发工程师
+> **求职意向：Golang后端开发工程师**
 ## 个人信息
 - 手机号：18340806468
 - 邮箱：clarksheng@foxmail.com
 - 博客：[https://blog.csdn.net/shengchaohua163](https://blog.csdn.net/shengchaohua163)
 
 ## 专业技能
-- 熟悉Golang，熟悉slice、map、context、channel等基础知识，熟悉gRPC、Protobuf、Gin、xorm等组件
+- 熟悉Golang，熟悉slice、map、context、channel、goroutine等基础知识，熟悉gRPC、Protobuf、Gin、xorm等组件
 - 熟悉MySQL、Redis、Kafka等中间件的常用操作，掌握Linux、Docker、K8s、Grafana、etcd的常用操作
 - 掌握Java，了解面向对象、集合、多线程并发编程、JVM等基础知识，了解Spring、Mybatis等常用框架
 - 掌握Python，掌握NumPy、pandas等数据分析库，了解常用的机器学习算法（LR、决策树、SVM等）
