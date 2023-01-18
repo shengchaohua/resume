@@ -3,7 +3,7 @@
 ## 个人信息
 - 手机号码：18340806468
 - 邮箱地址：clarksheng@foxmail.com
-- 博客地址：[https://blog.csdn.net/shengchaohua163](https://blog.csdn.net/shengchaohua163)
+- 博客地址：https://blog.csdn.net/shengchaohua163
 - 简历地址：https://github.com/shengchaohua/resume
 
 ## 专业技能
