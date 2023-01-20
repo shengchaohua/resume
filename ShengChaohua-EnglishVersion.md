@@ -17,12 +17,12 @@
 
 ## Experience
 2021.7 - present, Shopee ShopeePay Promotion - Backend engineer
-- designed and implemented a funding project, including
+- Designed and implemented new funding system, including
   - created funding rule for both campaign and voucher
-  - maintain merchant budget, including CRUD, budget alert and querying budget remaining balance
+  - maintained merchant budget, including CRUD, budget alert and querying budget remaining balance
   - calculated funding info of merchant and platform, and also provided merchant funding info to Clearing system
   - migrated funding system in Airpay to new system
-- 参与活动campaign的创建和批准，and implemented some campaign rule for transfer and topup transactions
+- Worked on campaign creation and approve flow, and implemented some campaign rule for transfer and topup transactions
 - Known a complete project flow, including product requirement review, tech design, coding, testing, demo, bugfix and feature release.
 
 ## Education
