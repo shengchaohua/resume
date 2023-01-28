@@ -11,7 +11,7 @@
 - Familiar with Golang, including slice, map, channel, gRPC, Protobuf, Gin, xorm etc.
 - Familiar with MySQL, Redis, Linux, Docker, k8s, Grafana.
 - Know Java, including OOP, collections, multi-thread programming.
-- Know Python, including NumPy, pandas and some ML algorithms.
+- Know Python, including Django, NumPy, pandas and some ML algorithms.
 - Know commonly used data structure and algorithm, and OS, computer network, etc.
 - Have good communication skills and basic English reading and speaking skills.
 
@@ -26,5 +26,8 @@
 - Known a complete project flow, including product requirement review, tech design, coding, testing, demo, bugfix and feature release.
 
 ## Education
-- 2018.9 - 2021.6, Dalian University of Technology - Software Engineering (Master)
-- 2014.9 - 2018.6, Dalian University of Technology - Software Engineering (Bachelor)
+2018.9 - 2021.6, Dalian University of Technology - Software Engineering (Master)
+- Studied “Testing based classification algorithms”, and published paper in IEEE Access
+
+2014.9 - 2018.6, Dalian University of Technology - Software Engineering (Bachelor)
+- Served as class monitor, and won study scholarship, national scholarship
